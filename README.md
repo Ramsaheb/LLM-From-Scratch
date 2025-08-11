@@ -1,24 +1,19 @@
-📓 Project Notebook
-📖 Overview
-This repository currently contains one main Jupyter Notebook with the complete source code.
-I’ve completed 21 out of 43 tutorial videos so far, and I’ll continue updating this as I progress.
+# 📓 Project Notebook
 
-📚 Source Code
-The notebook includes source code adapted from the professor’s original materials.
-I’ve chosen this approach because:
+## 📖 Overview
+This repository contains *one main Jupyter Notebook* with the complete source code.  
+So far, I’ve completed *21 out of 43* tutorial videos, and this notebook will be *updated regularly* as I progress.  
 
-It’s clear and easy to understand
+## 📚 Source Code
+The notebook’s code is based on the professor’s original materials because:  
+* Easy to understand for anyone following along  
+* Well-structured and beginner-friendly  
+* Ideal for learning step-by-step  
 
-It’s well-organized for learning
+## 🚀 Progress
+* **Videos Completed:** 21 / 43 ✅  
+* **Status:** In progress — updates will be added here as more videos are covered  
 
-It’s great for anyone following along with the course
-
-🚀 Progress
-✅ Videos completed: 21 / 43
-
-⏳ Ongoing updates as new videos are covered
-
-📝 Notes
-The code will be updated in this same notebook, so you’ll always find the latest version here.
-
-If you’re following the course, this should be an easy reference.
+## 📝 Notes
+* This is the *only notebook* in the repository with complete source code.  
+* Updates are made in place, so you’ll always have the latest version here.  
